@@ -1,4 +1,4 @@
-package neetcode.ArrayAndHashing.DynamicArrays;
+package neetcode.ArrayAndHashing.StaticArrays;
 
 public class RemoveElementsFromSortedArray {
 	public static int removeDuplicates(int[] nums) {
